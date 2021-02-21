@@ -1,0 +1,26 @@
+p{
+    color: red;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+img{
+    width: 800px;
+    height: 600px;
+    border-radius: 30px;
+}
+.container
+{
+    width: 800px;
+    margin: 20px auto;
+}
+table,td,tr{
+    border: 2px dotted black;
+
+}
