@@ -22,5 +22,7 @@ img{
 }
 table,td,tr{
     border: 2px dotted black;
-
+}
+body{
+    background-color: pink;
 }
